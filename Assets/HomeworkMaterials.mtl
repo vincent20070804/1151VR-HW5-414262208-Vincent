@@ -1,0 +1,95 @@
+newmtl skin
+Ka 0.2610 0.1920 0.1290
+Kd 0.87 0.64 0.43
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl red
+Ka 0.2550 0.0180 0.0210
+Kd 0.85 0.06 0.07
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl white
+Ka 0.2850 0.2850 0.2760
+Kd 0.95 0.95 0.92
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl black
+Ka 0.0105 0.0120 0.0135
+Kd 0.035 0.04 0.045
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl blue
+Ka 0.0300 0.0780 0.1950
+Kd 0.1 0.26 0.65
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl yellow
+Ka 0.3000 0.2280 0.0120
+Kd 1 0.76 0.04
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl brown
+Ka 0.0960 0.0480 0.0195
+Kd 0.32 0.16 0.065
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl leaf
+Ka 0.0360 0.1290 0.0360
+Kd 0.12 0.43 0.12
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl leafLight
+Ka 0.0750 0.1860 0.0480
+Kd 0.25 0.62 0.16
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl grass
+Ka 0.0810 0.1560 0.0360
+Kd 0.27 0.52 0.12
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl rock
+Ka 0.1290 0.1380 0.1410
+Kd 0.43 0.46 0.47
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
+
+newmtl soil
+Ka 0.1140 0.0810 0.0390
+Kd 0.38 0.27 0.13
+Ks 0.05 0.05 0.05
+Ns 8
+d 1
+illum 2
